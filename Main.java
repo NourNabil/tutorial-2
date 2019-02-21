@@ -5,5 +5,6 @@ public class Main
 		int x =5;
 		int y =7;
 		int z =x+y;
+		System.Out.println("Hello from the second user");
 	}
 }
